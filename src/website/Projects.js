@@ -49,7 +49,7 @@ const Projects = ({ isLoad }) => {
       {isRefresh ? (
         <div className="refresher"> {refresher.img}</div>
       ) : (
-        <section>
+        <section className="project-page">
           <Project isSize={isSize} setIsSize={setIsSize} />
         </section>
       )}{" "}
