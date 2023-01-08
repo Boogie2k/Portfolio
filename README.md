@@ -1,5 +1,3 @@
 # My Portfolio
 
-https://darling-tanuki-139323.netlify.app
-
-
+https://darling-tanuki-139323.netlify.app/
